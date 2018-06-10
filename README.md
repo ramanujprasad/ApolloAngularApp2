@@ -32,3 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Published URL
 
 https://ramanujprasad.github.io/ApolloAngularApp2/
+
+## Image of application
+
+[https://github.com/ramanujprasad/ApolloAngularApp2/blob/master/src/assets/appDesktop.JPG]
