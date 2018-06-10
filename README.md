@@ -29,10 +29,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Published URL
+## Live Demo
 
 https://ramanujprasad.github.io/ApolloAngularApp2/
 
 ## Image of application
 
-![App image](https://github.com/ramanujprasad/ApolloAngularApp2/blob/master/src/assets/appDesktop.JPG)
+![App image](https://github.com/ramanujprasad/ApolloAngularApp2/blob/master/src/assets/appDesktop2.JPG)
