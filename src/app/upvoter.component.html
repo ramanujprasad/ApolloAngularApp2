@@ -1,0 +1,7 @@
+<table class="table table-dark">
+  <tr *ngFor="let post of posts | async">
+    <td>{{post.title}} by {{post.author.firstName}} {{post.author.lastName}}</td>
+    <td>({{post.votes}} votes)</td>
+	<td><app-upvoter [postId]="post.id"></app-upvoter></td>
+  </tr>
+</table>
